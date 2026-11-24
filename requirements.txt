@@ -1,0 +1,7 @@
+# Core runtime works with Python 3.10+ standard library + DuckDB CLI.
+# Install these packages for Python-native DuckDB bindings and Jupyter notebook plots:
+duckdb>=1.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+jupyter>=1.0.0
